@@ -27,3 +27,4 @@ xlrd==1.2.*
 ### tensorflow-notebook
 
 tensorflow==2.0.0
+keras==2.3.0

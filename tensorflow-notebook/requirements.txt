@@ -23,6 +23,7 @@ statsmodels==0.10.*
 sympy==1.4.*
 vincent==0.4.*
 xlrd==1.2.*
+numpy==1.18.*
 
 ### tensorflow-notebook
 
